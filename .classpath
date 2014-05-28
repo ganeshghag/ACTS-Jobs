@@ -2,6 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="D:/ganeshghag/dev/installs1/apache-activemq-5.9.1/activemq-all-5.9.1.jar"/>
+	<classpathentry kind="lib" path="jars/activemq-all-5.9.1.jar"/>
+	<classpathentry kind="lib" path="jars/commons-logging.jar"/>
+	<classpathentry kind="lib" path="jars/jackson-all-1.9.8.jar"/>
+	<classpathentry kind="lib" path="jars/spring-core-4.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jars/spring-web-4.0.2.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
